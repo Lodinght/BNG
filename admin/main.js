@@ -41,6 +41,4 @@ function addComponents() {
       }
     });
   
-    CMS.registerWidget('categories', CategoriesControl, CategoriesPreview);
-  
   }
